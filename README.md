@@ -1,3 +1,3 @@
 # xquic_windows
 xquic_windows
-稍后将上传xquic在windows下的编译步骤及server_demo.exe
+稍后将上传如何在在windows下的编译xquic的步骤及支持xquic的server_demo.exe
